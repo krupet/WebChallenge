@@ -25,6 +25,11 @@
             text-align: center;
         }
     </style>
+    <script type="text/javascript">
+        <!--
+        document.write(document.lastModified);
+        // -->
+    </script>
 </head>
 
 <body>
